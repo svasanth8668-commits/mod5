@@ -12,4 +12,5 @@ int main(void)
 		status=adc_pal_1_results0[0];
 		PWM_UpdateDuty(&pwm_pal_1_instance,0U,status);
 	}
+	\\this is sem prac 
 }
